@@ -1,10 +1,13 @@
 
 Create React App is the best way to start building a new React single page application. It sets up your development environment so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production.
 
+```
 npm install -g create-react-app
 create-react-app project-name
 cd hello-world
 npm start
+
+```
 
 
 ## Folder Structure you see after
