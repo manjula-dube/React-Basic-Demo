@@ -4,7 +4,7 @@ Create React App is the best way to start building a new React single page appli
 ```
 npm install -g create-react-app
 create-react-app project-name
-cd hello-world
+cd project-name
 npm start
 
 ```
@@ -30,6 +30,7 @@ my-app/
     index.js
     logo.svg
 ```
+Now you are good to get started by building your own react application according to the requirements.
 
 Seperated out the component AppHeader and AppInro to get better understanding of props and state.
 
